@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Running",
+    "description": "Outdoor or treadmill running at a steady pace to improve cardiovascular endurance",
+    "category": "CARDIO",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Cycling",
+    "description": "Stationary or outdoor cycling to build leg strength and cardiovascular fitness",
+    "category": "CARDIO",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Jump Rope",
+    "description": "High-intensity cardio exercise using a jump rope for coordination and endurance",
+    "category": "CARDIO",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Swimming",
+    "description": "Full-body cardiovascular exercise performed in water",
+    "category": "CARDIO",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Rowing Machine",
+    "description": "Low-impact cardio that works the entire body, especially back and legs",
+    "category": "CARDIO",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Burpees",
+    "description": "High-intensity full-body exercise combining squat, push-up, and jump",
+    "category": "CARDIO",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Mountain Climbers",
+    "description": "Dynamic cardio exercise that targets core and improves agility",
+    "category": "CARDIO",
+    "muscleGroup": "CORE"
+  },
+  {
+    "name": "Jumping Jacks",
+    "description": "Classic cardio exercise for warming up and increasing heart rate",
+    "category": "CARDIO",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Bench Press",
+    "description": "Compound exercise targeting chest, shoulders, and triceps using a barbell or dumbbells",
+    "category": "STRENGTH",
+    "muscleGroup": "CHEST"
+  },
+  {
+    "name": "Push-ups",
+    "description": "Bodyweight exercise for chest, shoulders, and triceps",
+    "category": "STRENGTH",
+    "muscleGroup": "CHEST"
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "description": "Isolation exercise for chest muscles using dumbbells",
+    "category": "STRENGTH",
+    "muscleGroup": "CHEST"
+  },
+  {
+    "name": "Pull-ups",
+    "description": "Compound bodyweight exercise targeting back and biceps",
+    "category": "STRENGTH",
+    "muscleGroup": "BACK"
+  },
+  {
+    "name": "Deadlift",
+    "description": "Compound exercise targeting lower back, glutes, and hamstrings",
+    "category": "STRENGTH",
+    "muscleGroup": "BACK"
+  },
+  {
+    "name": "Bent Over Rows",
+    "description": "Compound exercise for upper and middle back muscles",
+    "category": "STRENGTH",
+    "muscleGroup": "BACK"
+  },
+  {
+    "name": "Lat Pulldown",
+    "description": "Cable exercise targeting the latissimus dorsi muscles",
+    "category": "STRENGTH",
+    "muscleGroup": "BACK"
+  },
+  {
+    "name": "Squats",
+    "description": "Compound exercise targeting quadriceps, hamstrings, and glutes",
+    "category": "STRENGTH",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Lunges",
+    "description": "Unilateral exercise for legs and glutes",
+    "category": "STRENGTH",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Leg Press",
+    "description": "Machine exercise targeting quadriceps, hamstrings, and glutes",
+    "category": "STRENGTH",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Calf Raises",
+    "description": "Isolation exercise for calf muscles",
+    "category": "STRENGTH",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Bicep Curls",
+    "description": "Isolation exercise for biceps using dumbbells or barbell",
+    "category": "STRENGTH",
+    "muscleGroup": "ARMS"
+  },
+  {
+    "name": "Tricep Dips",
+    "description": "Bodyweight or assisted exercise for triceps",
+    "category": "STRENGTH",
+    "muscleGroup": "ARMS"
+  },
+  {
+    "name": "Hammer Curls",
+    "description": "Variation of bicep curl targeting brachialis muscle",
+    "category": "STRENGTH",
+    "muscleGroup": "ARMS"
+  },
+  {
+    "name": "Shoulder Press",
+    "description": "Compound exercise for shoulders using dumbbells or barbell",
+    "category": "STRENGTH",
+    "muscleGroup": "SHOULDERS"
+  },
+  {
+    "name": "Lateral Raises",
+    "description": "Isolation exercise for lateral deltoids",
+    "category": "STRENGTH",
+    "muscleGroup": "SHOULDERS"
+  },
+  {
+    "name": "Front Raises",
+    "description": "Isolation exercise for anterior deltoids",
+    "category": "STRENGTH",
+    "muscleGroup": "SHOULDERS"
+  },
+  {
+    "name": "Plank",
+    "description": "Isometric core exercise for overall core stability",
+    "category": "STRENGTH",
+    "muscleGroup": "CORE"
+  },
+  {
+    "name": "Crunches",
+    "description": "Isolation exercise for upper abdominal muscles",
+    "category": "STRENGTH",
+    "muscleGroup": "CORE"
+  },
+  {
+    "name": "Russian Twists",
+    "description": "Rotational core exercise targeting obliques",
+    "category": "STRENGTH",
+    "muscleGroup": "CORE"
+  },
+  {
+    "name": "Yoga Sun Salutation",
+    "description": "Series of yoga poses flowing together for full-body flexibility and mindfulness",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Hamstring Stretch",
+    "description": "Static stretch targeting hamstring muscles",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Quad Stretch",
+    "description": "Static stretch for quadriceps muscles",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Hip Flexor Stretch",
+    "description": "Stretch targeting hip flexor muscles for improved mobility",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Shoulder Stretch",
+    "description": "Cross-body stretch for shoulder flexibility",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "SHOULDERS"
+  },
+  {
+    "name": "Chest Stretch",
+    "description": "Doorway or wall stretch for chest and anterior shoulder muscles",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "CHEST"
+  },
+  {
+    "name": "Cat-Cow Stretch",
+    "description": "Dynamic spine stretch alternating between flexion and extension",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "BACK"
+  },
+  {
+    "name": "Child's Pose",
+    "description": "Restorative yoga pose for back and hip flexibility",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "BACK"
+  },
+  {
+    "name": "Pigeon Pose",
+    "description": "Deep hip opener stretch from yoga practice",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "LEGS"
+  },
+  {
+    "name": "Tricep Stretch",
+    "description": "Overhead stretch for triceps and shoulder flexibility",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "ARMS"
+  },
+  {
+    "name": "Neck Rolls",
+    "description": "Gentle circular movements for neck flexibility and tension relief",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "FULL_BODY"
+  },
+  {
+    "name": "Seated Forward Fold",
+    "description": "Seated stretch targeting hamstrings and lower back",
+    "category": "FLEXIBILITY",
+    "muscleGroup": "BACK"
+  }
+]
