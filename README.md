@@ -169,7 +169,7 @@ src/
 │   │   ├── repository/      # Data repositories
 │   │   ├── security/        # JWT & security
 │   │   ├── seeder/          # Data seeders
-│   │   └── service/         # Business logic
+│   │   └── service/         # Java Business logic 
 │   └── resources/
 │       ├── application.yml
 │       └── data/exercises.json
